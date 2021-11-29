@@ -19,7 +19,8 @@
 
 @media (max-width:768px) {
 
-  .header { text-align: center;
+  .header {
+    text-align: center;
   }
 
 }
@@ -40,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.list-item, .list-title {
+.list-item, 
+.list-title {
   list-style: none;
 }
-.input,.button{
+.input,
+.button{
   outline: none;
 }
 .button {
