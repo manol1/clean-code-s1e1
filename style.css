@@ -61,6 +61,9 @@
 .button:hover {
   color: #3a3a3a;
 }
+.hidden {
+    display: none;
+}
 /* Heading */
 .list-title,
 .label[for="new-task"] {
